@@ -1,6 +1,3 @@
-#include <Arduino.h>
-#include <Servo.h>
-
 int ML1 = 9;      // Gleichstrommotor Links
 int ML2 = 5;      // Gleichstrommotor Links
 int MR1 = 10;     // Gleichstrommotor Rechts

@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 int MOTOR_LINKS_1 = 9;
 int MOTOR_LINKS_2 = 5;
 int MOTOR_RECHTS_1 = 10;
