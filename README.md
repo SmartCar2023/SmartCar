@@ -73,7 +73,7 @@ Dieser Fehler kann mehrere Gründe haben. Hier sind ein paar Ideen.
 
 2. Das Kabel könnte defekt sein und sollte mit einem anderen Gerät getestet werden.
 
-3. Der falsche Treiber ist installiert. Bitte nehmt den Treiber aus dem Ordner Arduino_Nano_Driver. Ich müsst ihr entpacken und die .exe ausführen
+3. Der falsche Treiber ist installiert. Bitte nehmt den Treiber aus dem Ordner Arduino_Nano_Driver. Ihr müsst ihn entpacken und die .exe ausführen
 
 </details>
 
